@@ -1,1 +1,1 @@
-# sentiment-mvp-presentation
+# NEWSit-mvp-presentation
